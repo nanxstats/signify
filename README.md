@@ -1,6 +1,6 @@
 # Signify
 
-Signify is a Shiny-based web application for making your (>0.05) p-values sound significant.
+Signify is a Shiny web application for making your (>0.05) p-values sound significant.
 
 App: https://nanx.shinyapps.io/signify
 
@@ -12,4 +12,4 @@ The application is powered by the data from [Matthew Hankins](https://mchankins.
 
 <hr>
 
-© 2015 Signify --- Just about right.
+© 2017 Signify --- Just about right.

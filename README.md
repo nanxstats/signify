@@ -4,7 +4,7 @@ Signify is a Shiny web application for making your (>0.05) p-values sound signif
 
 App: https://nanx.shinyapps.io/signify
 
-GitHub: https://github.com/road2stat/signify
+Source: https://github.com/nanxstats/signify
 
 ## Acknowledgement
 

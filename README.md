@@ -1,4 +1,4 @@
-# Signify <img src="logo.png" align="right" alt="logo" height="180" width="180" />
+# Signify  <img src="logo.png" align="right" height="139" />
 
 Signify is a Shiny web application for making your (>0.05) p-values sound significant.
 
